@@ -2,13 +2,13 @@ Instructions for using the Database Template Library
 ====================================================
 
 1.  **Contents**
-    1.  In the top folder are the following directories:
-    2.  \\docs: Documentation and examples on how to use the Database Template Library. To read, open the main file called index.htm.
-    3.  \\lib: This is the main code for the DTL.
-    4.  \\example\_db: Table definitions and sample data for the code in the "example" and "tests" directories.
-    5.  \\example: Example code for using the DTL.
-    6.  \\tests: Regression tests for the DTL / further examples.
-    7.  \\profile: Simple profiling tests versus raw ODBC calls.  
+    *  In the top folder are the following directories:
+        *  **docs**: Documentation and examples on how to use the Database Template Library. Start with index.htm.
+        *  **lib**: This is the main code for the DTL.
+        *  **example_db**: Table definitions and sample data for the code in the "example" and "tests" directories.
+        *  **example**: Example code for using the DTL.
+        *  **tests**: Regression tests for the DTL / further examples.
+        *  **profile**: Simple profiling tests versus raw ODBC calls.  
         
   
 2.  **Getting Started:**
